@@ -40,7 +40,7 @@ npm start
 ```
 
 ## Live Website
-(https://portfolio-swart-phi-54.vercel.app/)
+https://portfolio-swart-phi-54.vercel.app/
 
 ## Author
 Divyangi Sahoo  
