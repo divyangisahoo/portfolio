@@ -9,7 +9,7 @@ const projects = [
     description:
       "A cloud storage system with file deduplication and smart compression, enabling efficient and cost-effective storage management.",
     tech: ["React", "FastAPI", "AWS S3", "Python"],
-    github: "#",
+    github: "https://github.com/divyangisahoo/cloudvault",
     live: "#",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     description:
       "A comprehensive platform for managing blood donation drives, donor registration, and real-time inventory tracking.",
     tech: ["React", "SpringBoot", "Spring Security", "MySQL"],
-    github: "#",
+    github: "https://github.com/divyangisahoo/blood-bank-management-system",
     live: "#",
   },
 ];
